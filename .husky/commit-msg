@@ -1,4 +1,8 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+echo '🏗️👷 Checking for commit message errors...'
+
 .git/hooks/commit-msg
+
+echo '🎉 No error found: committing this now.... ✨🚀🏄'
