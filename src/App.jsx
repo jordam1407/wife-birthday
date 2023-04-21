@@ -14,7 +14,7 @@ import self from './assets/self.jpeg';
 import coracao from './assets/coracao.jpg';
 import doidinha from './assets/doidinha.jpg';
 import esposa from './assets/esposa.jpg';
-import guerreira from './assets/guerreira.jpg';
+import judith from './assets/judith.jpg';
 import motivadora from './assets/motivadora.jpg';
 import tia from './assets/tia.jpg';
 import virtuosa from './assets/virtuosa.jpg';
@@ -75,7 +75,7 @@ const facts = [
   {
     title: 'A mais guerreira',
     text: 'Que orgulho é fazer parte da sua vida, conhecer o seu trajeto, saber tudo o que você passou, me mostrou a guerreira que você é. Você sempre batalhou para ter uma condição de vida diferente e isso nos levou a lugar que nunc poderia imaginar. Pode parecer clichê, mas é a mais pura verdade, você teve que aprender a viver em vigilância, em estado de alerta, porque a qualquer momento podem precisar da Super Poli, E você sempre estará lá, dando o seu melhor, dando tudo de si para ajudar o próximo, mesmo que ele não seja tão próximo assim! Você escolheu ser assim, correta, não se desviar nem para a direita nem para a esquerda, eu aprendi muito com você a ter palavra, a dizer sempre a verdade, a corrigir quem precisa de correção e a acolher que precisa ser acolhido. Nem todos estão preparados para a verdade, mas você nunca abre mão de quem você é, dos seus princípios, das suas crenças para agradar os outros, doa a quem doer. Você é meu orgulho.',
-    img: guerreira,
+    img: judith,
   },
   {
     title: 'A mais inteligente e sábia',
